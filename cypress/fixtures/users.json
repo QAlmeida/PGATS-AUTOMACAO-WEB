@@ -1,0 +1,22 @@
+{
+  "newUser": {
+    "name": "PGATS Student",
+    "emailPrefix": "pgats_student_",
+    "password": "Test@123",
+    "firstName": "Student",
+    "lastName": "PGATS",
+    "company": "PGATS University",
+    "address1": "Rua Teste 123",
+    "address2": "Apto 45",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "zipcode": "M5H 2N2",
+    "mobileNumber": "11999999999"
+  },
+  "existingUser": {
+    "name": "Existing User",
+    "email": "existing_user_pgats@example.com",
+    "password": "Test@123"
+  }
+}

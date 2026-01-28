@@ -1,0 +1,8 @@
+{
+  "contactUs": {
+    "name": "PGATS Student",
+    "email": "pgats_contact@example.com",
+    "subject": "Dúvida sobre pedido",
+    "message": "Olá, estou testando o formulário de contato para o trabalho de automação da pós-graduação."
+  }
+}
